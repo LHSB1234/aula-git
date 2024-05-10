@@ -33,3 +33,8 @@ import random
 print(random.choice(['honda', 'kawasaki', 'suzuki']))
 
 # Cansei de fazer testes!
+
+# AGORA VAI COMEÇAR O PROJETO!
+
+# Projeto 01
+
