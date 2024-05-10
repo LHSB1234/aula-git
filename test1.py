@@ -24,3 +24,10 @@ import random
 
 print(random.sample('ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', 3))
 
+# Teste 4
+
+# Codigo em python para sortear uma moto aleatorio
+
+import random
+
+print(random.choice(['honda', 'kawasaki', 'suzuki']))
