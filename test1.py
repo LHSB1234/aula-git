@@ -9,3 +9,9 @@ import random
 print(random.randint(1, 10))
 
 #   Teste 2
+
+# Codigo em python para sortear uma letra de A a Z aleatorio
+
+import random
+
+print(random.choice('ABCDEFGHIJKLMNOPQRSTUVWXYZ'))
