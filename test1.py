@@ -31,3 +31,5 @@ print(random.sample('ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', 3))
 import random
 
 print(random.choice(['honda', 'kawasaki', 'suzuki']))
+
+# Cansei de fazer testes!
