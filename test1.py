@@ -15,3 +15,12 @@ print(random.randint(1, 10))
 import random
 
 print(random.choice('ABCDEFGHIJKLMNOPQRSTUVWXYZ'))
+
+# Teste 3
+
+# Codigo em python que sortei tres letras e numeros aleatorios
+
+import random
+
+print(random.sample('ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', 3))
+
